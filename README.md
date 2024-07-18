@@ -53,7 +53,7 @@ The sales view is for the sales team to drill down the performance of each produ
 
 
 #### Marekting view 🔔 :
-Show Top/ Bottom Customers along with Key metrics. A matrix would be preferable to understand their performance.
+Show Top/ Bottom Products along with Key metrics. A matrix would be preferable to understand their performance.
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/c1d89595-e66a-4f76-9a02-83071a816bdf)
 
